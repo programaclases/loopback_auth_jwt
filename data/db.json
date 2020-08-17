@@ -1,0 +1,28 @@
+{
+  "ids": {
+    "Todo": 8,
+    "User": 7,
+    "UserCredentials": 4
+  },
+  "models": {
+    "Todo": {
+      "1": "{\"title\":\"Take over the galaxy\",\"desc\":\"MWAHAHAHAHAHAHAHAHAHAHAHAHAMWAHAHAHAHAHAHAHAHAHAHAHAHA\",\"id\":1}",
+      "2": "{\"title\":\"destroy alderaan\",\"desc\":\"Make sure there are no survivors left!\",\"id\":2}",
+      "3": "{\"title\":\"play space invaders\",\"desc\":\"Become the very best!\",\"id\":3}",
+      "4": "{\"title\":\"crush rebel scum\",\"desc\":\"Every.Last.One.\",\"id\":4}",
+      "5": "{\"title\":\"Primera tarea\",\"desc\":\"Tarea\",\"isComplete\":true,\"id\":5}",
+      "6": "{\"title\":\"Primera tarea\",\"desc\":\"Tarea\",\"isComplete\":true,\"id\":6}",
+      "7": "{\"title\":\"Primera tarea\",\"desc\":\"Tarea\",\"isComplete\":true,\"id\":7}"
+    },
+    "User": {
+      "4": "{\"username\":\"testuser1\",\"email\":\"testuser1@abc.com\",\"id\":4}",
+      "b614ee58-84d0-4546-b7a2-2095ce291552": "{\"id\":\"b614ee58-84d0-4546-b7a2-2095ce291552\",\"realm\":\"uldcra\",\"username\":\"uldcra\",\"email\":\"uldcra@gmail.com\",\"emailVerified\":true,\"verificationToken\":\"1234\"}",
+      "2180c4e1-cf15-4787-a413-07b2bb1dc890": "{\"id\":\"2180c4e1-cf15-4787-a413-07b2bb1dc890\",\"realm\":\"uldcra\",\"username\":\"uldcra\",\"email\":\"uldcra@gmail.com\",\"emailVerified\":true,\"verificationToken\":\"1234\"}"
+    },
+    "UserCredentials": {
+      "1": "{\"password\":\"$2a$10$QrcA7GDOZ06TTXEBhuz87On8mcapb9qoU3rjWb7Z5pwBv7ZAbmXwa\",\"userId\":4,\"id\":1}",
+      "10eac2b3-3c9e-4bf2-b1fd-f95f31c2f24b": "{\"id\":\"10eac2b3-3c9e-4bf2-b1fd-f95f31c2f24b\",\"password\":\"$2a$10$.M74VEohTpTerpqYUnYwEuwB84URDZ5opIWFAww3UfaneQhPWtk62\",\"userId\":\"b614ee58-84d0-4546-b7a2-2095ce291552\"}",
+      "0a5ab37e-a30f-4093-883f-e84d651a1b6c": "{\"id\":\"0a5ab37e-a30f-4093-883f-e84d651a1b6c\",\"password\":\"$2a$10$XgfyMO.73Rns05Tg.ocw9.IHfjCKfmYOEHLoVVTAPreBZuIA.mNJO\",\"userId\":\"2180c4e1-cf15-4787-a413-07b2bb1dc890\"}"
+    }
+  }
+}
